@@ -1,6 +1,6 @@
 # Final Project Houssam Hallouch
 
-## Author: 
+## Author: Houssam Hallouch
 
 ## Overview   
 College Scorecard dataset, a rich collection of information procured from the government's Data.gov portal. This dataset provides a wealth of statistics regarding universities, including their acceptance percentages, gender makeup, financial aid utilization, and post-college income levels. Our primary goal in this app is to leverage this data to show insightful statistics through visualizations.
